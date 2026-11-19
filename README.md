@@ -4,7 +4,7 @@ Founder of **TabSphere Ltd** (UK). I design and build apps and web software that
 
 ## Just launched: Wobble Ink
 
-<a href="https://tabsphere.github.io/wobble-ink/"><img src="https://raw.githubusercontent.com/TabSphere/wobble-ink/main/store/marketing/app-store-header.png" alt="Wobble Ink: lines that come alive. The app on an iPad and an iPhone." width="720"></a>
+<a href="https://tabsphere.github.io/wobble-ink/"><img src="https://tabsphere.github.io/wobble-ink/store/marketing/app-store-header.png" alt="Wobble Ink: lines that come alive. The app on an iPad and an iPhone." width="720"></a>
 
 A drawing app where every line wobbles like a hand-drawn cartoon. Draw once, press play, and it comes alive.
 
@@ -13,7 +13,7 @@ A drawing app where every line wobbles like a hand-drawn cartoon. Draw once, pre
 - No account and no tracking: drawings stay on your device
 - Free, with a one-time Pro upgrade (no subscription)
 
-**[Get it on Google Play](https://play.google.com/store/apps/details?id=com.tabsphere.wobbleink)** · iPhone and iPad coming soon to the App Store · [Try it in your browser](https://tabsphere.github.io/wobble-ink/app.html) · [Source](https://github.com/TabSphere/wobble-ink)
+**[Get it on Google Play](https://play.google.com/store/apps/details?id=com.tabsphere.wobbleink)** · iPhone and iPad coming soon to the App Store · [Try it in your browser](https://tabsphere.github.io/wobble-ink/app.html)
 
 Built with plain JavaScript and Capacitor for iOS and Android, with automated builds through GitHub Actions.
 
@@ -22,7 +22,7 @@ Built with plain JavaScript and Capacitor for iOS and Android, with automated bu
 - Websites and web apps for clients, from design to launch
 
 ## Selected projects
-- **[Wobble Ink](https://github.com/TabSphere/wobble-ink)**: animated drawing app for iPhone, iPad, Android and the web · [website](https://tabsphere.github.io/wobble-ink/)
+- **[Wobble Ink](https://tabsphere.github.io/wobble-ink/)**: animated drawing app for iPhone, iPad, Android and the web · [Google Play](https://play.google.com/store/apps/details?id=com.tabsphere.wobbleink)
 - **[LeadsGate](https://github.com/TabSphere/LeadsGate-Website)**: lead-generation website · [live site](https://leadsgate-website.vercel.app)
 - **[AvaTails: Colour & Learn](https://play.google.com/store/apps/details?id=com.tabsphere.avaandpandy)**: a gentle learning app for ages 3 to 6, where children colour, trace, count and read with Ava and her puppy Tuppy · on Google Play
 
