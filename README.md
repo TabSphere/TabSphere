@@ -24,7 +24,7 @@ Built with plain JavaScript and Capacitor for iOS and Android, with automated bu
 ## Selected projects
 - **[Wobble Ink](https://github.com/TabSphere/wobble-ink)**: animated drawing app for iPhone, iPad, Android and the web · [website](https://tabsphere.github.io/wobble-ink/)
 - **[LeadsGate](https://github.com/TabSphere/LeadsGate-Website)**: lead-generation website · [live site](https://leadsgate-website.vercel.app)
-- **[WildTails Ghana](https://github.com/TabSphere/wildtails-ghana)**: wildlife conservation app for Ghana
+- **[AvaTails: Colour & Learn](https://play.google.com/store/apps/details?id=com.tabsphere.avaandpandy)**: a gentle learning app for ages 3 to 6, where children colour, trace, count and read with Ava and her puppy Tuppy · on Google Play
 
 ## How I work
 Accessibility (WCAG 2.2 AA) and privacy built in from the start · tested before it ships · React, TypeScript, Next.js, Supabase, Capacitor.
